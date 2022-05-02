@@ -16,3 +16,4 @@ This is the repository we used for participating at the NBME - Score Clinical Pa
 ## Our submit to Kaglle have 0.882 public score
 ![kaggle](https://drive.google.com/uc?export=view&id=1NY9mLobVlb2D0l6q5ym8ZSDZFiXIO1Yf)
 
+Ref: Kaglle notebook of Y.Nakama and Theo Viel
