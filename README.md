@@ -1,6 +1,14 @@
-# deBERTa-based-model
-This is the repository we used for participating at the NBME - Score Clinical Patient Notes in Kaggle 
 
+
+# deBERTa-based-model
+## Authors
+
+* THAI Ba Tuan
+* Raul SENA ROJAS
+* Georgios Markos CHATZILOIZOS
+* Thomas GEORGES
+
+This is the repository we used for participating at the NBME - Score Clinical Patient Notes in Kaggle 
 
 ## For the detail of training pharse, you can find the report at [Wandb](https://wandb.ai/batuan1405/NBME-Public/runs/37434b2v?workspace=user-batuan1405)
 ![view](https://drive.google.com/uc?export=view&id=1FDoAd506owBL0ZAWjQ8RJdJjmHqw7j-9)
